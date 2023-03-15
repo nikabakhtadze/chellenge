@@ -1,0 +1,330 @@
+*{
+    box-sizing:border-box;
+}
+@font-face{
+    font-family: "Montserrat";
+    src: url("font/Montserrat.ttf");
+}
+#section{
+    position:relative;
+    height:780px;
+    width:100%;
+    background-image:linear-gradient(#FFFFFF,#E8EFFC);
+    display:flex;
+}
+.container1{
+    position:absolute;
+    left:551px;
+    top:90px;
+    height:572px;
+    width:337px;
+    background-color:#FFFFFF;
+}
+.container2{
+    position:absolute;
+    left:280px;
+    top:107px;
+    height:502px;
+    width:298px;
+    background-color:#E3004F;
+}
+h1{
+    display:flex;
+    justify-content:center;
+    font-family:"Montserrat";
+    font-weight: 500;
+    font-size: 33px;
+    letter-spacing: 1.43478px;
+    color: #DADADA;
+}
+p{
+    display:flex;
+    justify-content:center;
+    font-family:"Montserrat";
+    color:#FFFFFF;
+}
+.container3>img{
+    position:absolute;
+    left:317px;
+    top:395px;
+    height:213px;
+    width:145px;
+}
+.container4{
+    position:absolute;
+    left:448px;
+    top:330px;
+    height:329px;
+    width:109.06px;
+}
+.container5>img{
+    position:absolute;
+    left:503.43px;
+    top:478.05px;
+    height:130px;
+    width:75px;
+}
+.container6>img{
+    position:absolute;
+    left:65px;
+    top:57px;
+    height:42px;
+    width:40px;
+}
+.container7{
+    position:absolute;
+    font-family:"MOnserrat";
+    left:190px;
+    top:71px;
+    color:#55617D;
+}
+.container8{
+    position:absolute;
+    left:65px;
+    top:149px;
+    font-family:"Montserrat";
+    color:#55617D;
+}
+.container9{
+    position:absolute;
+    font-family:"Montserrat";
+    left:240px;
+    top:150px;
+    color:#55617D;
+}
+.container10{
+    position:absolute;
+    font-family:"Montserrat";
+    left:65px;
+    top:195px;
+    color:#55617D;
+}
+.container11{
+    position:absolute;
+    font-family:"Montserrat";
+    left:240px;
+    top:195px;
+    color:#55617D;
+}
+.container12{
+    position:absolute;
+    font-family:"Montserrat";
+    left:65px;
+    top:241px;
+    color:#55617D;
+}
+.container13{
+    position:absolute;
+    font-family:"Montserrat";
+    left:240px;
+    top:241px;
+    color:#55617D;
+}
+.container14{
+    position:absolute;
+    font-family:"Montserrat";
+    left:71px;
+    top:427px;
+    color:#55617D;
+}
+.text{
+    position:absolute;
+    font-family:"Montserrat";
+    left:201px;
+    top:390px;
+    color:#55617D;
+}
+.container15{
+    position:absolute;
+    font-family:"Montserrat";
+    left:71px;
+    top:481px;
+    color:#55617D;
+}
+.container16{
+    position:absolute;
+    font-family:"Montserrat";
+    left:71px;
+    top:510px;
+    color:#55617D;
+}
+.box1{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:550px;
+    display:flex;
+    background-color:#E8EFFC;
+    rotate: 45deg;
+}
+.box2{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:570px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box3{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:590px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box4{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:610px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box5{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:630px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box6{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:650px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box7{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:670px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box8{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:690px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box9{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:710px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box10{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:730px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box11{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:750px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box12{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:770px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box13{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:790px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box14{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:810px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box15{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:830px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box16{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:850px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box17{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:870px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
+.box18{
+    position:absolute;
+    height:25px;
+    width:25px;
+    top:655px;
+    left:890px;
+    display:flex;
+    rotate:45deg;
+    background-color:#E8EFFC;
+}
